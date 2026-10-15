@@ -3,7 +3,7 @@
 # User Sentiment Analysis
 # 🎭
 
-### A small Persian review classifier
+### A Persian review classifier
 
 A Python script that cleans Persian movie reviews with hazm, trains a Naive Bayes model, and labels a new review as positive or negative.
 
