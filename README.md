@@ -59,7 +59,7 @@ A Python script that cleans Persian movie reviews with hazm, trains a Naive Baye
 
 The labels in the sheet are `positive`, `negative`, and `neutral`. The script treats only `positive` as class 1. Everything else, including `neutral`, becomes class 0.
 
-> **Tagline:** *A small Persian movie-review classifier using hazm and scikit-learn.*
+> **Tagline:** *A Persian movie-review sentiment classifier that cleans text with hazm, turns reviews into word counts, and trains a Naive Bayes model to label them as positive or negative.*
 
 ---
 
