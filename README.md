@@ -22,7 +22,6 @@ A Python script that cleans Persian movie reviews with hazm, trains a Naive Baye
 [![Persian](https://img.shields.io/badge/Language-Persian-success?style=for-the-badge)](https://en.wikipedia.org/wiki/Persian_language)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/license/mit)
 ![Open Source](https://img.shields.io/badge/Open_Source-Project-black?style=for-the-badge&logo=github)
-[![Stars](https://img.shields.io/github/stars/sadra-hatami/User-Sentiment-Analysis?style=for-the-badge)](https://github.com/sadra-hatami/User-Sentiment-Analysis/stargazers)
 
 <br>
 
