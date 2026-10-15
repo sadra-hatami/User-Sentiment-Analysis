@@ -8,7 +8,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 # بارگذاری مجموعه داده‌ها
-df = pd.read_excel('C:/Users/A.Refua/IMDB_Dataset_Farsi.xlsx')
+df = pd.read_excel('./IMDB_Dataset_Persian.xlsx')
 
 # نمایش چند نمونه از داده‌ها
 print(df.head())
